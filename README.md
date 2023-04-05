@@ -1,6 +1,6 @@
-### Hi there 👋
+<div align=center>### Hi there 👋</div>
 
-<div align=center>![junyjeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=junyjeon&show_icons=true&theme=radical)</div>
+![junyjeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=junyjeon&show_icons=true&theme=radical)
 
 <div align=center><h1>📚 STACKS</h1></div>
 
