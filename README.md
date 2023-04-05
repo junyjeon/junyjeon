@@ -2,7 +2,7 @@
 
 ![junyjeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=junyjeon&show_icons=true&theme=radical)
 
-<h1>📚 STACKS</h1>
+<div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
