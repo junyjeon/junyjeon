@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Junyjeon's%20Github&fontSize=90)
 
-####  :wave: I'm an AI developer who loves rock climbing as a hobby.
+####  :wave: I'm a developer utilizing AI, with rock climbing as a favorite hobby.
  
   <br/>
   <br/>
