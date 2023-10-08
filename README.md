@@ -40,7 +40,6 @@
   
 ####  :pencil2: Study log
 
-
   <br/>
   
 &nbsp;&nbsp;![junyjeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=junyjeon&show_icons=true&theme=radical)
