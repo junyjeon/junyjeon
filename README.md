@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
   <br/>
   <br/>
-#### :pencil2: Study log
+### :pencil2: Study log
 
   <br/>
   
