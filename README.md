@@ -28,7 +28,12 @@
 				<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="75" height="75"/>
 				<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="75" height="75" />
 			<h4 align="left">Backend Development</h4>
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="75" height="75"/>
+				<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="75" height="75" />
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="75" height="75"/>
 			<h4 align="left">Mobile App Development</h4>
+				<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="75" height="75"/>
+				<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="75" height="75"/>
 			<h4 align="left">AI/ML</h4>
 			<h4 align="left">Database</h4>
 			<h4 align="left">Data Visualization</h4>
@@ -55,7 +60,6 @@
 			<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="75" height="75" />
 			<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="75" height="75" />
 			<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="75" height="75" />
-			<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="75" height="75" />
 			<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="75" height="75" />
 			</div>
 			<div style="display: flex; align-items: flex-start;">
@@ -77,16 +81,13 @@
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/>
 		 	</div>
 			<div style="display: flex; align-items: flex-start;">
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="75" height="75"/>
 			<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="75" height="75"/>
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="75" height="75"/>
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="75" height="75"/>
 			<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="75" height="75"/>
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="75" height="75"/>
 			<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="75" height="75"/>
 			<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="75" height="75"/>
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="75" height="75"/>
-			<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="75" height="75"/>
 			</div>
 			<div style="display: flex; align-items: flex-start;">
 			<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="75" height="75"/>
