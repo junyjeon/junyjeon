@@ -1,3 +1,9 @@
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=junyjeon&show_icons=true&locale=en&layout=compact" alt="junyjeon" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junyjeon&show_icons=true&locale=en" alt="junyjeon" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junyjeon&" alt="junyjeon" /></p>
+
 <div align="center"> 
 	
 ![header](https://capsule-render.vercel.app/api?type=rect&color=timeAuto&text=I%20am%20junyjeon&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2)
