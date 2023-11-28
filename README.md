@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=I%20am%20Jun.&fontSize=70&color=176B87&stroke=001C30)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=I%20am%20Jun.&fontSize=70&color=001C30&stroke=176B87)
 
 </div>
 <h1 align="center">Hi 👋, I'm Jeon Junyoung</h1>
