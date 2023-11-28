@@ -24,12 +24,12 @@
 				<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="75" height="75" />
 			<h4 align="left">Frontend Development</h4>
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75"/>
-                		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="css3" width="75" height="75"/>
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
 				<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="75" height="75"/>
 				<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="75" height="75"/>
 				<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="75" height="75"/>
 				<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="75" height="75" />
+                		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="css3" width="75" height="75"/>
 			<h4 align="left">Backend Development</h4>
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="75" height="75"/>
 				<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="75" height="75" />
