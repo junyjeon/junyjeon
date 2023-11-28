@@ -16,7 +16,7 @@
                 <br>
                     <div align="center" >
 			<h2 align="left">Programming Languages</h2>
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="75" height="75"/>
                 		<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="75" height="75" />
 				<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75" height="75" />
 				<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" height="75" />
