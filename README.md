@@ -25,19 +25,20 @@
                 	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> 
                 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> 
                 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> 
-			<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-			<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-			<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-			<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-			<img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
-			<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-			<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-			<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-			<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-			<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-			<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+			<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" height="75" />
+			<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="75" height="75" />
+			<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="75" height="75" />
+			<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="75" height="75" />
+			<img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="75" height="75" />
+			<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75" height="75" />
+			<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="75" height="75" />
+			<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="75" height="75" />
+			<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="75" height="75" />
+			<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="75" height="75" />
+			<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="75" height="75" />
 			<div style="display: flex; align-items: flex-start;">
-			<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+			<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="75" height="75" />
+			<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="75" height="75" />
 			</div>
 		    </div>
 </div>
