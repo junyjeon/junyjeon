@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=timeAuto&text=I%20am%20Jun&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=rect&color=timeAuto&text=I%20am%20JunyJeon&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2)
 
 </div>
 <h1 align="center">Hi 👋, I'm Jeon Junyoung</h1>
@@ -17,7 +17,6 @@
 <div align="center">
                 <br>
                     <div align="center" >  
-                      <img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white"> 
                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
 			                   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt="css3" width="75" height="75"/>
                       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="css3" width="75" height="75"/>
