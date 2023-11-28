@@ -35,66 +35,61 @@
 				<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="75" height="75"/>
 				<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="75" height="75"/>
 			<h4 align="left">AI/ML</h4>
+				<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="75" height="75"/>
+				<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="75" height="75"/>
+				<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="75" height="75"/>
 			<h4 align="left">Database</h4>
-			<h4 align="left">Data Visualization</h4>
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> 
+                		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> 
+				<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="75" height="75"/>
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="75" height="75"/>
 			<h4 align="left">Devops</h4>
+				<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="75" height="75" />
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="75" height="75"/>
+				<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="75" height="75" />
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="75" height="75"/>
+				<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="75" height="75"/>
+				<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="75" height="75"/>
 			<h4 align="left">Backend as a Service(BaaS)</h4>
+				<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="75" height="75"/>
+				<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="75" height="75" />
 			<h4 align="left">Framework</h4>
+				<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="75" height="75"/>
 			<h4 align="left">Testing</h4>
+				<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="75" height="75"/>
 			<h4 align="left">Software</h4>
+                		<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> 
+				<img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="75" height="75"/>
 			<h4 align="left">Static Site Generators</h4>
+				<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="75" height="75"/>
 			<h4 align="left">Game Engines</h4>
+				<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="75" height="75"/>
 			<h4 align="left">Automation</h4>
+				<img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="75" height="75"/>
 			<h4 align="left">Other</h4>
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="75" height="75"/>
+			<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/>
                 	<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="css3" width="75" height="75"/>
-                	<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> 
                 	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> 
-                	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> 
-                	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> 
-			<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="75" height="75" />
+                	<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="75" height="75" />
 			<div style="display: flex; align-items: flex-start;">
 			<img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="75" height="75" />
 			<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75" height="75" />
-			<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="75" height="75" />
 			<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="75" height="75" />
 			<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="75" height="75" />
-			<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="75" height="75" />
-			<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="75" height="75" />
 			<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="75" height="75" />
 			</div>
 			<div style="display: flex; align-items: flex-start;">
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="75" height="75"/>
-			<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="75" height="75"/>
 			<!--Programming Languages -->
-			<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="75" height="75"/>
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="75" height="75"/>
-			<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/>
-			<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="75" height="75"/>
 			</div>
 			<div style="display: flex; align-items: flex-start;">
-			<img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="75" height="75"/>
-			<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="75" height="75"/>
-			<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/>
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="75" height="75"/>
-			<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="75" height="75"/>
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/>
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/>
-		 	</div>
 			<div style="display: flex; align-items: flex-start;">
-			<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="75" height="75"/>
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="75" height="75"/>
-			<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="75" height="75"/>
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="75" height="75"/>
 			<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="75" height="75"/>
-			<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="75" height="75"/>
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="75" height="75"/>
 			</div>
 			<div style="display: flex; align-items: flex-start;">
-			<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="75" height="75"/>
-			<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="75" height="75"/>
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="75" height="75"/>
-			<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="75" height="75"/>
-			<img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="75" height="75"/>
 			</div>
 		    </div>
 </div>
