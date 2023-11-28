@@ -142,8 +142,8 @@
         </tr>
 	</table>
 </div>
-<br />
-<br />
+<br>
+<br>
 <hr>
 
 
@@ -159,22 +159,20 @@
 <a href="https://www.youtube.com/playlist?list=PLSxQBcJsXJum8Uaqmiv4U_XIEZVQyJuiG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="junyjeon" height="30" width="40" /></a>
 </p>
 
+
 <!-- SUPPORT -->
-<hr>
 
+<hr>
 <h2 align="center">Support</h3>
-<p align="center">
-	<a href="https://www.buymeacoffee.com/junyjeon"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="junyjeon" height="50" width="210"/>
-	</a>
-</p>
-
+	<p align="center">
+		<a href="https://www.buymeacoffee.com/junyjeon"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="junyjeon" height="50" width="210"/></a>
+	</p>
 <hr>
 
-<div>
-	
+<div align="center">
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                 
 
-&nbsp;&nbsp;![junyjeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=junyjeon&show_icons=true&theme=radical)
+![junyjeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=junyjeon&show_icons=true&theme=radical)
 </div>
 
 <!--
