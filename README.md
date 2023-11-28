@@ -27,8 +27,8 @@
 			<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" height="75" />
 			<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="75" height="75" />
 			<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="75" height="75" />
-			<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="75" height="75" />
 			<div style="display: flex; align-items: flex-start;">
+			<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="75" height="75" />
 			<img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="75" height="75" />
 			<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75" height="75" />
 			<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="75" height="75" />
