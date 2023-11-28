@@ -54,6 +54,8 @@
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="75" height="75"/>
 			<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/>
 			<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="75" height="75"/>
+			</div>
+			<div style="display: flex; align-items: flex-start;">
 			<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="75" height="75"/>
 			<img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="75" height="75"/>
 			<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="75" height="75"/>
