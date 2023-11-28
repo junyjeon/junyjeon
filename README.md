@@ -1,5 +1,7 @@
 <div align="center"> 
- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Junyjeon's%20Github&fontSize=90)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Junyjeon's%20Github&fontSize=90)
+
 </div>
 <h1 align="center">Hi 👋, I'm Jeon Junyoung</h1>
 <h3 align="center">A full stack developer from seoul, KR</h3>
