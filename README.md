@@ -38,8 +38,6 @@
 			<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="75" height="75" />
 			<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="75" height="75" />
 			<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="75" height="75" />
-			<img src="https://techstack-generator.vercel.app/c-icon.svg" alt="icon" width="75" height="75" />
-				
 			</div>
 		    </div>
 </div>
