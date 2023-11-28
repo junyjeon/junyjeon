@@ -1,25 +1,152 @@
 <div align="center"> 
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Junyjeon's%20Github&fontSize=90)
+</div>
+<h1 align="center">Hi 👋, I'm Jeon Junyoung</h1>
+<h3 align="center">A full stack developer from seoul, KR</h3>
+<h4 align="center">Hi my name is Jeon Junyoung a web developer based out of Seoul. I've worked on web development for more than 6 month. I'm specializing in image generation, web crawling, Excel/sheet automation, tokenization/keyword processing, and full-stack development. I'm committed to delivering high-quality solutions and continually exploring new technologies to provide the best possible outcomes. Join me on this journey of innovation and let's create something amazing together! </h4>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Junyjeon's%20Github&fontSize=90)
+<hr>
 
-####  :wave: HELLO! I'm a developer exploring AI technologies and passionately learning more
+
+<!-- TECHS -->
+
+<h2 align="center">Skills</h2>
  
-  <br/>
-  <br/>
+<div align="center">
+                <br>
+                    <div align="center" >  
+                      <img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white"> 
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
+			                   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt="css3" width="75" height="75"/>
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="css3" width="75" height="75"/>
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="css3" width="75" height="75"/>
+                      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> 
+                      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> 
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> 
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> 
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> 
+                    </div>
+</div>
 
-<img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white"> 
+<br>
+<hr>
 
-  <br/>
-  <br/>
-  
-####  :pencil2: Study log
+<!-- PROJECTS -->
+
+<h2 align="center">Projects</h2>
+<div align="center">
+	<table>
+		<tr>
+			<td width="50%">
+				<h3 align="center">Project 1</h3>
+				<div align="center">  
+					<a href='https://google.com' target="_blank">
+						<img src="https://github.com/codingphasedotcom/codingphasedotcom/blob/main/assets/project1.jpg?raw=true" alt="project 1" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/codingphasedotcom/nextjslanding" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://google.com" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+					</p>
+					<p><strong>HTML, CSS, Javascript</strong></p>
+          <p>
+						Description goes here
+					</p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center">Project 2</h3>
+				<div align="center" >  
+					<a href='https://codingphase.com' target="_blank">
+						<img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 2" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+					</p>
+					 <p><strong>HTML, CSS, Javascript</strong></p>
+					<p>Description goes here</p>
+				</div>
+        </tr>
+	    <tr>
+            <td width="50%">
+                <h3 align="center">Project 3</h3>
+                <div align="center" >  
+                    <a href='https://codingphase.com' target="_blank">
+                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 3" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+                    </p>
+                    <p><strong>HTML, CSS, Javascript</strong></p>
+		    <p>Description goes here</p>
+                </div>
+            </td>
+            <td width="50%">
+                <h3 align="center">Project 4</h3>
+                <div align="center">  
+                    <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
+                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 4" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+                    </p>
+                    <p><strong>HTML, CSS, Javascript</strong></p>
+		    <p>Description goes here</p>
+                </div>	
+            </td>
+        </tr>
+	</table>
+</div>
+<br />
+<br />
+<hr>
+
+
+<!-- SOCIALS -->
+
+<h2 align="center">Contact Me</h2>
+<p align="center">
+	&nbsp&nbsp&nbsp
+	<a href="https://twitter.com/junyjeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="junyjeon" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+<a href="https://linkedin.com/in/junyjeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junyjeon" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+<a href="https://instagram.com/juny._.jeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="junyjeon" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+<a href="https://www.youtube.com/c/junyjeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="junyjeon" height="30" width="40" /></a>
+</p>
+
+<hr>
+
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                 
 
-  <br/>
-  
 &nbsp;&nbsp;![junyjeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=junyjeon&show_icons=true&theme=radical)
 
-</div>
 
 <!--
 **junyjeon/junyjeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
