@@ -30,7 +30,6 @@
 				<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="75" height="75"/>
 				<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="75" height="75"/>
 				<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="75" height="75" />
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="75" height="75"/>
 			<h4 align="left">Backend Development</h4>
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="75" height="75"/>
 				<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="75" height="75" />
@@ -47,7 +46,6 @@
 				<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="75" height="75"/>
 			<h4 align="left">Database</h4>
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> 
-                		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> 
 				<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="75" height="75" />
 				<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="75" height="75"/>
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="75" height="75"/>
@@ -55,14 +53,12 @@
 				<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="75" height="75" />
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="75" height="75"/>
 				<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="75" height="75" />
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="75" height="75"/>
 				<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="75" height="75"/>
 				<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="75" height="75"/>
 			<h4 align="left">Backend as a Service(BaaS)</h4>
 				<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="75" height="75"/>
-				<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="75" height="75" />
 			<h4 align="left">Framework</h4>
-				<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="75" height="75"/>
+				<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="75" height="75" />
 			<h4 align="left">Testing</h4>
 				<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="75" height="75"/>
 			<h4 align="left">Software</h4>
