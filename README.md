@@ -18,20 +18,25 @@
 			<h4 align="left">Programming Languages</h4>
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="75" height="75"/>
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="75" height="75"/>
+				<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75" height="75" />
+                		<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="75" height="75" />
 				<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" height="75" />
 				<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="75" height="75" />
 			<h4 align="left">Frontend Development</h4>
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75"/>
+                		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="css3" width="75" height="75"/>
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
 				<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="75" height="75"/>
 				<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="75" height="75"/>
 				<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="75" height="75"/>
 				<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="75" height="75" />
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="75" height="75"/>
 			<h4 align="left">Backend Development</h4>
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="75" height="75"/>
 				<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="75" height="75" />
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="75" height="75"/>
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="75" height="75"/>
+				<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="75" height="75" />
 			<h4 align="left">Mobile App Development</h4>
 				<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="75" height="75"/>
 				<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="75" height="75"/>
@@ -43,6 +48,7 @@
 			<h4 align="left">Database</h4>
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> 
                 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> 
+				<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="75" height="75" />
 				<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="75" height="75"/>
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="75" height="75"/>
 			<h4 align="left">Devops</h4>
@@ -71,14 +77,8 @@
 			<h4 align="left">Other</h4>
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="75" height="75"/>
 				<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/>
-                	<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="css3" width="75" height="75"/>
-                	<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="75" height="75" />
-			<img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="75" height="75" />
-			<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75" height="75" />
-			<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="75" height="75" />
-			<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="75" height="75" />
-			<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="75" height="75" />
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="75" height="75"/>
+				<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="75" height="75" />
+				<img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="75" height="75" />
 		    </div>
 </div>
 
