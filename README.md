@@ -159,6 +159,8 @@
 <a href="https://www.youtube.com/playlist?list=PLSxQBcJsXJum8Uaqmiv4U_XIEZVQyJuiG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="junyjeon" height="30" width="40" /></a>
 </p>
 
+<hr>
+
 
 <!-- STATS -->
 <div align="center" margin="100px 0 0 0">
@@ -181,7 +183,6 @@
 	<p align="center">
 		<a href="https://www.buymeacoffee.com/junyjeon"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="junyjeon" height="50" width="210"/></a>
 	</p>
-<hr>
 
 <!--
 **junyjeon/junyjeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
