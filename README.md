@@ -7,7 +7,7 @@
 <!-- SUBTITLE -->
 <h3 align="center">A full stack developer from Seoul, KR</h3>
 <!-- WORK -->
-<h4 align="center">Hi, my name is Jeon Junyoung, a web developer based out of Seoul. I provide solutions for various projects, including simple automation outsourcing, Fine-tuning, full stack web development, and app development! I am a continuously learning and growing web developer. I specialize in image generation, web crawling, diverse data processing and automation, and full-stack development. I am committed to delivering high-quality solutions and continually exploring new technologies to provide the best possible outcomes. I look forward to working on innovative projects together!</h4>
+<h4 align="center">Hello, I'm Jeon Junyoung, a web developer based in Korea. I have experience in GPT fine-tuning for chatbot development, automating tasks in Excel and Google Sheets, and web crawling. I'm also skilled in full-stack web and app development, utilizing technologies like React and Flutter. My mission is to deliver high-quality solutions and I'm always on the lookout for innovative projects to collaborate on. Looking forward to working with you!</h4>
 <hr>
 
 <!-- TECHS -->
