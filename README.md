@@ -1,26 +1,36 @@
-
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">  </a> </p>
-
-
 <div align="center"> 
-
+	
 ![header](https://capsule-render.vercel.app/api?type=rect&color=timeAuto&text=I%20am%20junyjeon&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2)
-
 </div>
+<!-- TITLE -->
 <h1 align="center">Hi 👋, I'm Jeon Junyoung</h1>
+<!-- SUBTITLE -->
 <h3 align="center">A full stack developer from seoul, KR</h3>
+<!-- WORK -->
 <h4 align="center">Hi my name is Jeon Junyoung a web developer based out of Seoul. I've worked on web development for more than 6 month. I'm specializing in image generation, web crawling, Excel/sheet automation, tokenization/keyword processing, and full-stack development. I'm committed to delivering high-quality solutions and continually exploring new technologies to provide the best possible outcomes. Join me on this journey of innovation and let's create something amazing together! </h4>
-
 <hr>
 
-
 <!-- TECHS -->
-
 <h2 align="center">Skills</h2>
- 
 <div align="center">
                 <br>
                     <div align="center" >
+			<h4 align="left">Programming Languages</h4>
+			Frontend Development
+			Backend Development
+			Mobile App Development
+			AI/ML
+			Database
+			Data Visualization
+			Devops
+			Backend as a Service(BaaS)
+			Framework
+			Testing
+			Software
+			Static Site Generators
+			Game Engines
+			Automation
+			Other
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
 			<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt="css3" width="75" height="75"/>
                 	<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="css3" width="75" height="75"/>
@@ -46,6 +56,7 @@
 			<div style="display: flex; align-items: flex-start;">
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="75" height="75"/>
 			<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="75" height="75"/>
+			<!--Programming Languages -->
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="75" height="75"/>
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="75" height="75"/>
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75"/>
