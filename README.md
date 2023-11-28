@@ -65,6 +65,8 @@
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="75" height="75"/>
 			<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="75" height="75"/>
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/>
+			</div>
+			<div style="display: flex; align-items: flex-start;">
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/>
 		 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="75" height="75"/>
 			<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="75" height="75"/>
@@ -75,6 +77,8 @@
 			<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="75" height="75"/>
 			<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="75" height="75"/>
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="75" height="75"/>
+			</div>
+			<div style="display: flex; align-items: flex-start;">
 			<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="75" height="75"/>
 			<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="75" height="75"/>
 			<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="75" height="75"/>
