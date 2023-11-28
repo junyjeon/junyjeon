@@ -18,7 +18,15 @@
 			<h4 align="left">Programming Languages</h4>
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="75" height="75"/>
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="75" height="75"/>
+				<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" height="75" />
+				<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="75" height="75" />
 			<h4 align="left">Frontend Development</h4>
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75"/>
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
+				<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="75" height="75"/>
+				<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="75" height="75"/>
+				<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="75" height="75"/>
+				<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="75" height="75" />
 			<h4 align="left">Backend Development</h4>
 			<h4 align="left">Mobile App Development</h4>
 			<h4 align="left">AI/ML</h4>
@@ -33,17 +41,13 @@
 			<h4 align="left">Game Engines</h4>
 			<h4 align="left">Automation</h4>
 			<h4 align="left">Other</h4>
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
                 	<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="css3" width="75" height="75"/>
                 	<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> 
                 	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> 
                 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> 
                 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> 
-			<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" height="75" />
-			<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="75" height="75" />
 			<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="75" height="75" />
 			<div style="display: flex; align-items: flex-start;">
-			<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="75" height="75" />
 			<img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="75" height="75" />
 			<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75" height="75" />
 			<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="75" height="75" />
@@ -58,20 +62,15 @@
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="75" height="75"/>
 			<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="75" height="75"/>
 			<!--Programming Languages -->
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75"/>
-			<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="75" height="75"/>
 			<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="75" height="75"/>
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="75" height="75"/>
 			<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/>
 			<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="75" height="75"/>
 			</div>
 			<div style="display: flex; align-items: flex-start;">
-			<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="75" height="75"/>
 			<img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="75" height="75"/>
 			<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="75" height="75"/>
 			<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/>
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/>
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="75" height="75"/> 
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="75" height="75"/>
 			<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="75" height="75"/>
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/>
@@ -91,7 +90,6 @@
 			</div>
 			<div style="display: flex; align-items: flex-start;">
 			<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="75" height="75"/>
-			<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="75" height="75"/>
 			<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="75" height="75"/>
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="75" height="75"/>
 			<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="75" height="75"/>
