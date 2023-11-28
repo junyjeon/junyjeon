@@ -136,7 +136,7 @@
 	<a href="https://twitter.com/junyjeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="junyjeon" height="30" width="40" /></a>&nbsp&nbsp&nbsp
 <a href="https://linkedin.com/in/junyjeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junyjeon" height="30" width="40" /></a>&nbsp&nbsp&nbsp
 <a href="https://instagram.com/juny._.jeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="junyjeon" height="30" width="40" /></a>&nbsp&nbsp&nbsp
-<a href="https://www.youtube.com/c/junyjeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="junyjeon" height="30" width="40" /></a>
+<a href="https://www.youtube.com/playlist?list=PLD5i5ljtxkHgTsnXPXbTUoo49Z4ffRpsx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="junyjeon" height="30" width="40" /></a>
 </p>
 
 <hr>
