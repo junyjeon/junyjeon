@@ -16,23 +16,24 @@
                 <br>
                     <div align="center" >
 			<h4 align="left">Programming Languages</h4>
-			Frontend Development
-			Backend Development
-			Mobile App Development
-			AI/ML
-			Database
-			Data Visualization
-			Devops
-			Backend as a Service(BaaS)
-			Framework
-			Testing
-			Software
-			Static Site Generators
-			Game Engines
-			Automation
-			Other
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="75" height="75"/>
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="75" height="75"/>
+			<h4 align="left">Frontend Development</h4>
+			<h4 align="left">Backend Development</h4>
+			<h4 align="left">Mobile App Development</h4>
+			<h4 align="left">AI/ML</h4>
+			<h4 align="left">Database</h4>
+			<h4 align="left">Data Visualization</h4>
+			<h4 align="left">Devops</h4>
+			<h4 align="left">Backend as a Service(BaaS)</h4>
+			<h4 align="left">Framework</h4>
+			<h4 align="left">Testing</h4>
+			<h4 align="left">Software</h4>
+			<h4 align="left">Static Site Generators</h4>
+			<h4 align="left">Game Engines</h4>
+			<h4 align="left">Automation</h4>
+			<h4 align="left">Other</h4>
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
-			<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt="css3" width="75" height="75"/>
                 	<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="css3" width="75" height="75"/>
                 	<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> 
                 	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> 
@@ -57,8 +58,6 @@
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="75" height="75"/>
 			<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="75" height="75"/>
 			<!--Programming Languages -->
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="75" height="75"/>
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="75" height="75"/>
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75"/>
 			<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="75" height="75"/>
 			<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="75" height="75"/>
