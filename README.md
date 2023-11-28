@@ -160,6 +160,20 @@
 </p>
 
 
+<!-- STATS -->
+<div align="center" margin="100px 0 0 0">
+
+<h2 align="center">Stats</h2>
+<h6 style="color:red">These stats are only for public repos it don't show private stats on projects for previous employers and clients.</h6>
+
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=junyjeon&show_icons=true&locale=en&layout=compact" alt="codingphasedotcom" /></p>
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junyjeon&show_icons=true&locale=en" alt="codingphasedotcom" /></p>
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junyjeon&" alt="codingphasedotcom" /></p>
+</div>
+<br>
+
 <!-- SUPPORT -->
 
 <hr>
@@ -168,13 +182,6 @@
 		<a href="https://www.buymeacoffee.com/junyjeon"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="junyjeon" height="50" width="210"/></a>
 	</p>
 <hr>
-
-<div align="center">
-
-	[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                 
-
-![junyjeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=junyjeon&show_icons=true&theme=radical)
-</div>
 
 <!--
 **junyjeon/junyjeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
