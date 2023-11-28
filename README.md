@@ -7,7 +7,7 @@
 <!-- SUBTITLE -->
 <h3 align="center">A full stack developer from Seoul, KR</h3>
 <!-- WORK -->
-<h5 align="center">Hi, my name is Jeon Junyoung, a web developer based out of Seoul. I am a freelance developer in Korea, and I provide solutions for various projects, including simple automation outsourcing, LLM fine-tuning, full stack web, and apps! I am a web developer who is continuously learning and growing. I specialize in image generation, web crawling, diverse data processing and automation, and full-stack development. I am committed to delivering high-quality solutions and continually exploring new technologies to provide the best possible outcomes. I look forward to working on innovative projects together!</h4>
+<h4 align="center">Hi, my name is Jeon Junyoung, a web developer based out of Seoul. I am a freelance developer in Korea, and I provide solutions for various projects, including simple automation outsourcing, LLM fine-tuning, full stack web, and apps! I am a web developer who is continuously learning and growing. I specialize in image generation, web crawling, diverse data processing and automation, and full-stack development. I am committed to delivering high-quality solutions and continually exploring new technologies to provide the best possible outcomes. I look forward to working on innovative projects together!</h4>
 <hr>
 
 <!-- TECHS -->
