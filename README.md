@@ -17,9 +17,8 @@
                     <div align="center" >
 			<h4 align="left">Programming Languages</h4>
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="75" height="75"/>
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="75" height="75"/>
-				<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75" height="75" />
                 		<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="75" height="75" />
+				<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75" height="75" />
 				<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" height="75" />
 				<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="75" height="75" />
 			<h4 align="left">Frontend Development</h4>
@@ -33,7 +32,6 @@
 			<h4 align="left">Backend Development</h4>
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="75" height="75"/>
 				<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="75" height="75" />
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="75" height="75"/>
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="75" height="75"/>
 				<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="75" height="75" />
 			<h4 align="left">Mobile App Development</h4>
