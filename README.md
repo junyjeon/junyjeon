@@ -7,7 +7,8 @@
 <!-- SUBTITLE -->
 <h3 align="center">A full stack developer from Seoul, KR</h3>
 <!-- WORK -->
-<h4 align="center">Hello, I'm Jeon Junyoung, a web developer based in Korea. I have experience in GPT fine-tuning for chatbot development, automating tasks in Excel and Google Sheets, and web crawling. I'm also skilled in full-stack web and app development, utilizing technologies like React and Flutter. My mission is to deliver high-quality solutions and I'm always eager to join forces with others on creative and challenging projects. </h4>
+<h4 align="center">Hello, I'm Jeon Junyoung, a web developer based in Korea. I have experience in GPT fine-tuning for chatbot development, automating tasks in Excel and Google Sheets, and web crawling. 
+	I'm also skilled in full-stack web and app development, utilizing technologies like React and Flutter. My mission is to deliver high-quality solutions and I'm always eager to join forces with others on creative and challenging projects. </h4>
 <hr>
 
 <!-- TECHS -->
