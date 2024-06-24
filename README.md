@@ -4,7 +4,6 @@
 </div>
 <!-- TITLE -->
 <!-- SUBTITLE -->
-<h3 align="center">A full stack developer from Seoul, KR</h3>
 <!-- WORK -->
 
 
