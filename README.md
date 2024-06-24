@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=timeAuto&text=junyjeon&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2)
 </div>
 <!-- TITLE -->
-<h1 align="center">Hi 👋, I'm Jeon Junyoung</h1>
 <!-- SUBTITLE -->
 <h3 align="center">A full stack developer from Seoul, KR</h3>
 <!-- WORK -->
