@@ -29,7 +29,6 @@
 			<h2 align="left">Backend Development</h2>
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="75" height="75"/>
 				<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="75" height="75" />
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="75" height="75"/>
 				<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="75" height="75" />
 			<h2 align="left">Mobile App Development</h2>
 				<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="75" height="75"/>
