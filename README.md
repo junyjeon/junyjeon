@@ -27,14 +27,14 @@
 
 ###
 
-<h5 align="left">I'm a developer from South Korea.<br><br>
+I'm a developer from South Korea.<br><br>
   - 🔭 I'm working as a freelancer<br>
   - 📚 I'm currently learning Rust, blockchain technology, and solo development<br>
   - ⚡ In my free time, I enjoy rock climbing and working out. I'm constantly focused on self-improvement<br>
   - 🌱 I'm aspiring to become a digital nomad<br>
   - 💡 I'm interested in practical AI tools<br>
   - 🏆 I contributed to the planning of a recommendation system and website development for a perfume recommendation service<br>
-  - 🧗‍♂️ Outside of tech:  <br> &nbsp; 🏋️ Physical: Rock climbing, fitness  <br>  &nbsp; 🧠 Mental: Philosophy, health  <br> &nbsp; 🎨 Creative: Cooking, playing piano</h5>
+  - 🧗‍♂️ Outside of tech:  <br> &nbsp; 🏋️ Physical: Rock climbing, fitness  <br>  &nbsp; 🧠 Mental: Philosophy, health  <br> &nbsp; 🎨 Creative: Cooking, playing piano
 
 ###
 
