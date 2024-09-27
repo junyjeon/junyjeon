@@ -27,7 +27,7 @@
 
 ###
 
-<h5 align="left">I'm a developer from South Korea.<br>
+<h5 align="left">I'm a developer from South Korea.<br><br>
   - 🔭 I'm working as a freelancer<br>
   - 📚 I'm currently learning Rust, blockchain technology, and solo development<br>
   - ⚡ In my free time, I enjoy rock climbing and working out. I'm constantly focused on self-improvement<br>
