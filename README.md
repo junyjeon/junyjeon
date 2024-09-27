@@ -34,7 +34,7 @@ I'm a developer from South Korea.<br><br>
   - 🌱 I'm aspiring to become a digital nomad<br>
   - 💡 I'm interested in practical AI tools<br>
   - 🏆 I contributed to the planning of a recommendation system and website development for a perfume recommendation service<br>
-  - 🧗‍♂️ Outside of tech:  <br> &nbsp; 🏋️ Physical: Rock climbing, fitness  <br>  &nbsp; 🧠 Mental: Philosophy, health  <br> &nbsp; 🎨 Creative: Cooking, playing piano
+  - 🧗‍♂️ Outside of tech:  <br> 🏋️ Physical: Rock climbing, fitness  <br> 🧠 Mental: Philosophy, health 🎨 Creative: Cooking, playingo
 
 ###
 
