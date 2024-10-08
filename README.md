@@ -166,7 +166,7 @@ I'm a developer from South Korea.<br><br>
 
 ###
 
-<img src="https://raw.githubusercontent.com/junyjeon/junyjeon/output/snake.svg" alt="Snake animation" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/junyjeon/junyjeon/output/snake.svg" />
 
 ###
 
