@@ -171,7 +171,7 @@ I'm a developer from South Korea.<br><br>
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/"  />
+  <img height="200" src="https://placehold.co/200x200"  />
 </div>
 
 ###
