@@ -169,8 +169,8 @@ I'm a developer from South Korea.<br><br>
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/junyjeon/junyjeon/output/snake.svg" />
 </div>
-###
 <!--
+###
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
