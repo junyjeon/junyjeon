@@ -41,7 +41,7 @@ I'm a developer from South Korea.<br><br>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-
+<!--
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -155,7 +155,7 @@ I'm a developer from South Korea.<br><br>
 </div>
 
 ###
-
+-->
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
