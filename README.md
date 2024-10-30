@@ -41,7 +41,7 @@ I'm a developer from South Korea.<br><br>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-<!--
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -155,7 +155,7 @@ I'm a developer from South Korea.<br><br>
 </div>
 
 ###
--->
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -169,7 +169,7 @@ I'm a developer from South Korea.<br><br>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/junyjeon/junyjeon/output/snake.svg" />
 
 ###
-
+<!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
@@ -179,7 +179,7 @@ I'm a developer from South Korea.<br><br>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/unsplash/default.svg" width="52" height="40" alt="unsplash logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
 </div>
-
+-->
 ###
 
 <div align="center">
