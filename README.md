@@ -124,11 +124,11 @@ Testing & Automation:
 
 Development Environment:
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="20" alt="vim" /> Vim
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="vscode" /> VSCode
   <img width="12" />
   <img src="https://cursor.sh/brand/icon.svg" height="20" alt="cursor" /> Cursor ⭐
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="20" alt="vim" /> Vim
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="20" alt="xcode" /> Xcode
   <img width="12" />
