@@ -110,7 +110,7 @@ DevOps:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20" alt="docker" /> Docker
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="20" alt="aws" /> AWS
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="20" alt="aws" /> AWS
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="20" alt="nginx" /> Nginx
   <img width="12" />
@@ -142,6 +142,8 @@ Development Environment:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="20" alt="xcode" /> Xcode
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="20" alt="jupyter" /> Jupyter
+  <img width="12" />
+  <img src="https://cursor.sh/brand/icon.svg" height="20" alt="cursor" /> Cursor
 </div>
 
 Operating Systems:
