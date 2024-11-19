@@ -31,14 +31,14 @@ I'm a developer from South Korea.<br><br>
   - 🔭 I'm working as a freelance developer<br>
   - 📚 I'm learning Rust and blockchain technology<br>
   - ⚡ I'm building solo projects and startup skills<br>
-  - 🌱 I'm working towards remote-first development career<br>
-  - 💡 I'm developing practical AI tools<br>
-  - 🏆 I contributed to a perfume recommendation service project<br>
+  - 🌱 I'm working towards a remote-first development career<br>
+  - 💡 I'm exploring practical AI applications<br>
+  - 🏆 I worked on a perfume recommendation service<br>
   - 🎨 Beyond coding:<br>
       &nbsp;&nbsp;&nbsp;&nbsp;🧗‍♂️ Rock climbing<br>
       &nbsp;&nbsp;&nbsp;&nbsp;🏋️ Fitness<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;📚 Philosophy<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;🎵 Piano & cooking
+      &nbsp;&nbsp;&nbsp;&nbsp;📖 Philosophy<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;🎹 Piano & cooking
 
 ###
 
