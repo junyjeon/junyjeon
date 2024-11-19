@@ -161,12 +161,6 @@ I'm a developer from South Korea.<br><br>
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=junyjeon&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/junyjeon/junyjeon/output/snake.svg" />
 </div>
 <!--
@@ -189,6 +183,12 @@ I'm a developer from South Korea.<br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=junyjeon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=junyjeon&theme=dracula&column=4&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  /> <br>
   <img src="https://streak-stats.demolab.com?user=junyjeon&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=junyjeon&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
