@@ -2,9 +2,6 @@
 <div align="center">
   <img height="300" src="./AsciiArt.svg"  />
 </div>
-<img src="https://i.imgur.com/9Ga3T3W.png" height="20" alt="wsl" /> WSL ⭐
-<img src="https://i.imgur.com/Hp5jKYC.png" height="20" alt="macrorecord" /> MacroRecord
-<img src="https://i.imgur.com/0yoVjBH.png" height="20" alt="tauri" /> Tauri 2.0
 <!--
 ###
 
@@ -138,7 +135,7 @@ Development Environment:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="20" alt="jupyter" /> Jupyter
   <img width="12" />
-  🤖 MacroRecord
+  <span style="font-size: 16px;">🤖</span> MacroRecord
 </div>
 
 Design & CMS:
@@ -167,7 +164,7 @@ Operating Systems:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="20" alt="windows" /> Windows
   <img width="12" />
-  🐧 WSL ⭐
+  <span style="font-size: 16px;">🐧</span> WSL ⭐
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="20" alt="apple" /> macOS
 </div>
