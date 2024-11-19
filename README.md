@@ -157,12 +157,6 @@ I'm a developer from South Korea.<br><br>
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/junyjeon/junyjeon/output/snake.svg" />
-</div>
 <!--
 ###
 <div align="center">
@@ -193,4 +187,9 @@ I'm a developer from South Korea.<br><br>
 
 ###
 
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/junyjeon/junyjeon/output/snake.svg" />
+</div>
+
+###
 </samp>
