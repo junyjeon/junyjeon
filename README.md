@@ -17,29 +17,24 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=junyjeon.junyjeon&left_color=darkcyan&right_color=darkgrey"  />
 </div>
 
-###
-
+### 
 <h1 align="center">Hey there 👋</h1>
-
-###
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-###
-
-I'm a developer from South Korea.<br><br>
+I'm a developer from South Korea.
 
 🚀 Current Focus
-- Working as a freelance developer<br>
-- Learning Rust and blockchain technology<br>
-- Building solo projects and startup skills<br>
-- Working towards a remote-first development career<br>
+- Working as a freelance developer
+- Learning Rust and blockchain technology
+- Building solo projects and startup skills
+- Working towards a remote-first development career
 
 💼 Projects
-- Perfume Recommendation Service<br>
-  &nbsp;&nbsp;• Built recommendation system using Python and FastAPI<br>
-  &nbsp;&nbsp;• Implemented frontend with React and TailwindCSS<br>
-  &nbsp;&nbsp;• Deployed using Docker and AWS<br>
+- Perfume Recommendation Service
+  - Built recommendation system using Python and FastAPI
+  - Implemented frontend with React and TailwindCSS
+  - Deployed using Docker and AWS
 
 💡 Interests
 - Exploring practical AI applications<br>
@@ -53,11 +48,7 @@ I'm a developer from South Korea.<br><br>
 - 📖 Philosophy<br>
 - 🎹 Piano & cooking<br>
 
-###
-
 <h3 align="left">🔨 Tech Stack</h3>
-
-###
 
 Languages:
 <div align="left">
@@ -156,8 +147,6 @@ Operating Systems:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="20" alt="debian" /> Debian
 </div>
-
-###
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/junyjeon/junyjeon/output/snake.svg" />
