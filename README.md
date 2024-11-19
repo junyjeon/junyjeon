@@ -1,7 +1,8 @@
 <samp>
 <div align="center">
   <img height="300" src="./AsciiArt.svg"  />
-</div>
+</div><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f427.svg" height="20" alt="penguin" /> WSL ⭐
+
 <!--
 ###
 
