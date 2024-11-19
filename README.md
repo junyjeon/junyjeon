@@ -34,10 +34,18 @@ I'm a developer from South Korea.
 - Working towards a remote-first development career
 
 💼 Projects
-- Perfume Recommendation Service
-  - Built recommendation system using Python and FastAPI
-  - Implemented frontend with React and TailwindCSS
-  - Deployed using Docker and AWS
+- [Perfume Recommendation Service](https://github.com/junyjeon/preference)
+  - Built perfume recommendation app with Flutter and Neo4j graph database
+  - Implemented clean architecture with Riverpod state management
+  - Used graph-based algorithm for perfume recommendations
+  - Tech Stack:
+    - Flutter, Riverpod, go_router
+    - Neo4j graph database
+    - Material Design 3
+  - Features:
+    - Graph-based perfume analysis
+    - Personalized recommendations
+    - Responsive and animated UI
 
 💡 Interests
 - Exploring practical AI applications
@@ -91,6 +99,17 @@ Frontend:
   <img src="https://avatars.githubusercontent.com/u/54536011" height="20" alt="tauri" /> Tauri 2.0
 </div>
 
+Design & CMS:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20" alt="figma" /> Figma
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" height="20" alt="sketch" /> Sketch
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="20" alt="wordpress" /> WordPress
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="20" alt="webflow" /> Webflow
+</div>
+
 Backend:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="20" alt="fastapi" /> FastAPI
@@ -100,6 +119,13 @@ Backend:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="mysql" /> MySQL
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="20" alt="redis" /> Redis
+</div>
+
+Testing & Automation:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="20" alt="selenium" /> Selenium
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="bs4" /> BeautifulSoup4
 </div>
 
 DevOps:
@@ -115,13 +141,6 @@ DevOps:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="20" alt="nginx" /> Nginx
 </div>
 
-Testing & Automation:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="20" alt="selenium" /> Selenium
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="bs4" /> BeautifulSoup4
-</div>
-
 Development Environment:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="20" alt="vim" /> Vim
@@ -135,17 +154,6 @@ Development Environment:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="20" alt="jupyter" /> Jupyter
   <img width="12" />
   <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f916.svg" height="20" alt="robot" /> MacroRecord
-</div>
-
-Design & CMS:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20" alt="figma" /> Figma
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" height="20" alt="sketch" /> Sketch
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="20" alt="wordpress" /> WordPress
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="20" alt="webflow" /> Webflow
 </div>
 
 Game Development:
