@@ -35,22 +35,22 @@ I'm a developer from South Korea.
 💼 Projects
 - [Perfume Recommendation Service](https://github.com/junyjeon/preference)
   - Built perfume recommendation app with Flutter and Neo4j graph database
-  - Implemented clean architecture with Riverpod state management
-  - Used graph-based algorithm for perfume recommendations
+  - Implemented keyword extraction from user reviews using GPT-4
+  - Created graph-based recommendation system using extracted keywords
   - Tech Stack:
     - Flutter, Riverpod, go_router
-    - Neo4j graph database
+    - Neo4j graph database, GPT-4 API
     - Material Design 3
   - Features:
-    - Graph-based perfume analysis
-    - Personalized recommendations
-    - Responsive and animated UI
+    - AI-powered keyword extraction from reviews
+    - Graph visualization of perfume relationships
+    - Personalized recommendations based on semantic analysis
 
 💡 Interests
-- Exploring practical AI applications
-- Game development with Unreal Engine
-- Mobile app development with Flutter
-- Blockchain technology and Web3
+- Leveraging AI as a force multiplier for solo development
+- Exploring real-time rendering revolution with UE 5.5
+- Creating seamless web experiences through Flutter
+- Building practical blockchain solutions
 
 🎨 Beyond Coding
 - 🧗‍♂️ Rock climbing
