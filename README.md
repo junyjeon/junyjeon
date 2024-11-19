@@ -90,7 +90,7 @@ Frontend:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="20" alt="electron" /> Electron
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/tauri-apps/tauri/dev/.github/splash.png" height="20" alt="tauri" /> Tauri 2.0
+  <img src="https://raw.githubusercontent.com/tauri-apps/tauri/dev/app-icon.png" height="20" alt="tauri" /> Tauri 2.0
 </div>
 
 Backend:
