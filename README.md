@@ -1,7 +1,7 @@
 <samp>
 <div align="center">
   <img height="300" src="./AsciiArt.svg"  />
-</div><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f427.svg" height="20" alt="penguin" /> WSL ⭐
+</div>
 
 <!--
 ###
@@ -136,7 +136,7 @@ Development Environment:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="20" alt="jupyter" /> Jupyter
   <img width="12" />
-  <span style="font-size: 24px;">🤖</span> MacroRecord
+  <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f916.svg" height="20" alt="robot" /> MacroRecord
 </div>
 
 Design & CMS:
@@ -165,7 +165,7 @@ Operating Systems:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="20" alt="windows" /> Windows
   <img width="12" />
-  <span style="font-size: 16px;">🐧</span> WSL ⭐
+  <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f427.svg" height="20" alt="penguin" /> WSL ⭐
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="20" alt="apple" /> macOS
 </div>
