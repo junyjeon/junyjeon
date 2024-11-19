@@ -90,7 +90,7 @@ Frontend:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="20" alt="electron" /> Electron
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/54536011" height="20" alt="tauri" /> Tauri 2.0
+  <img src="https://i.imgur.com/0yoVjBH.png" height="20" alt="tauri" /> Tauri 2.0
 </div>
 
 Backend:
@@ -136,7 +136,7 @@ Development Environment:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="20" alt="jupyter" /> Jupyter
   <img width="12" />
-  <img src="https://www.jitbit.com/img/macro-recorder.png" height="20" alt="macrorecord" /> MacroRecord
+  <img src="https://i.imgur.com/Hp5jKYC.png" height="20" alt="macrorecord" /> MacroRecord
 </div>
 
 Design & CMS:
@@ -165,7 +165,7 @@ Operating Systems:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="20" alt="windows" /> Windows
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/images/wsl.png" height="20" alt="wsl" /> WSL ⭐
+  <img src="https://i.imgur.com/9Ga3T3W.png" height="20" alt="wsl" /> WSL ⭐
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="20" alt="apple" /> macOS
 </div>
