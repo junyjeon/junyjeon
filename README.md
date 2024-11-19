@@ -19,7 +19,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -28,13 +28,17 @@
 ###
 
 I'm a developer from South Korea.<br><br>
-  - 🔭 I'm working as a freelancer<br>
-  - 📚 I'm currently learning Rust, blockchain technology, and solo development<br>
-  - ⚡ In my free time, I enjoy rock climbing and working out. I'm constantly focused on self-improvement<br>
-  - 🌱 I'm aspiring to become a digital nomad<br>
-  - 💡 I'm interested in practical AI tools<br>
-  - 🏆 I contributed to the planning of a recommendation system and website development for a perfume recommendation service<br>
-  - 🧗‍♂️ Outside of tech:  <br> 🏋️ Physical: Rock climbing, fitness  <br> 🧠 Mental: Philosophy, health <br> 🎨 Creative: Cooking, playing piano
+  - 🔭 I'm working as a freelance developer<br>
+  - 📚 I'm learning Rust and blockchain technology<br>
+  - ⚡ I'm building solo projects and startup skills<br>
+  - 🌱 I'm working towards remote-first development career<br>
+  - 💡 I'm developing practical AI tools<br>
+  - 🏆 I contributed to a perfume recommendation service project<br>
+  - 🎨 Beyond coding:<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;🧗‍♂️ Rock climbing<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;🏋️ Fitness<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;📚 Philosophy<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;🎵 Piano & cooking
 
 ###
 
