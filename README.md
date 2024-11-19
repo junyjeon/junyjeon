@@ -53,6 +53,8 @@ I'm a developer from South Korea.
 
 <h3 align="left">🔨 Tech Stack</h3>
 
+⭐ indicates proficiency
+
 Languages:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python" /> Python
@@ -63,11 +65,13 @@ Languages:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="20" alt="rust" /> Rust
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" alt="c" /> C
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" alt="c" /> C ⭐
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="cplusplus" /> C++
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="cplusplus" /> C++ ⭐
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="20" alt="dart" /> Dart
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="20" alt="ruby" /> Ruby
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="20" alt="dart" /> Dart ⭐
 </div>
 
 Frontend:
@@ -82,9 +86,11 @@ Frontend:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="20" alt="bootstrap" /> Bootstrap
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="20" alt="flutter" /> Flutter
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="20" alt="flutter" /> Flutter ⭐
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="20" alt="electron" /> Electron
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/tauri-apps/tauri/dev/.github/splash.png" height="20" alt="tauri" /> Tauri 2.0
 </div>
 
 Backend:
@@ -107,19 +113,30 @@ DevOps:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="20" alt="nginx" /> Nginx
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="git" /> Git
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="20" alt="make" /> Make
+</div>
+
+Testing & Automation:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="20" alt="selenium" /> Selenium
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="bs4" /> BeautifulSoup4
 </div>
 
 Development Environment:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="vscode" /> VSCode
   <img width="12" />
-  <img src="https://cursor.sh/brand/icon.svg" height="20" alt="cursor" /> Cursor
+  <img src="https://cursor.sh/brand/icon.svg" height="20" alt="cursor" /> Cursor ⭐
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="20" alt="vim" /> Vim
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="20" alt="xcode" /> Xcode
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="20" alt="jupyter" /> Jupyter
+  <img width="12" />
+  <img src="https://www.macrorecorder.com/images/mrlogo_256.png" height="20" alt="macrorecord" /> MacroRecord
 </div>
 
 Design & CMS:
@@ -135,7 +152,7 @@ Design & CMS:
 
 Game Development:
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="20" alt="unrealengine" /> Unreal Engine
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="20" alt="unrealengine" /> Unreal Engine 5.5
 </div>
 
 Operating Systems:
@@ -145,6 +162,10 @@ Operating Systems:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="20" alt="ubuntu" /> Ubuntu
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="20" alt="debian" /> Debian
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="20" alt="windows" /> Windows
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/microsoft/WSL/main/docs/WSL-Icon.png" height="20" alt="wsl" /> WSL ⭐
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="20" alt="apple" /> macOS
 </div>
