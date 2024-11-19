@@ -135,7 +135,7 @@ Development Environment:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="20" alt="jupyter" /> Jupyter
   <img width="12" />
-  <span style="font-size: 16px;">🤖</span> MacroRecord
+  <span style="font-size: 24px;">🤖</span> MacroRecord
 </div>
 
 Design & CMS:
