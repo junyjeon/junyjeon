@@ -138,7 +138,7 @@ Development Environment:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="20" alt="jupyter" /> Jupyter
   <img width="12" />
-  <img src="https://i.imgur.com/Hp5jKYC.png" height="20" alt="macrorecord" /> MacroRecord
+  🤖 MacroRecord
 </div>
 
 Design & CMS:
@@ -167,7 +167,7 @@ Operating Systems:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="20" alt="windows" /> Windows
   <img width="12" />
-  <img src="https://i.imgur.com/9Ga3T3W.png" height="20" alt="wsl" /> WSL ⭐
+  🐧 WSL ⭐
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="20" alt="apple" /> macOS
 </div>
