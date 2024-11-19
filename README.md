@@ -26,13 +26,13 @@
 
 I'm a developer from South Korea.
 
-🚀 Current Focus
+<h3 align="left">🚀 Current Focus</h3>
 - Working as a freelance developer
 - Learning Rust and blockchain technology
 - Building solo projects and startup skills
 - Working towards a remote-first development career
 
-💼 Projects
+<h3 align="left">💼 Projects</h3>
 - [Perfume Recommendation Service](https://github.com/junyjeon/preference)
   - Built perfume recommendation app with Flutter and Neo4j graph database
   - Implemented keyword extraction from user reviews using GPT-4
@@ -46,13 +46,13 @@ I'm a developer from South Korea.
     - Graph visualization of perfume relationships
     - Personalized recommendations based on semantic analysis
 
-💡 Interests
+<h3 align="left">💡 Interests</h3>
 - Leveraging AI as a force multiplier for solo development
 - Exploring real-time rendering revolution with UE 5.5
 - Creating seamless web experiences through Flutter
 - Building practical blockchain solutions
 
-🎨 Beyond Coding
+<h3 align="left">🎨 Beyond Coding</h3>
 - 🧗‍♂️ Rock climbing
 - 🏋️ Fitness
 - 📖 Philosophy
