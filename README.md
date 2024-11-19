@@ -1,6 +1,6 @@
 <samp>
 <div align="center">
-  <img height="300" src="./AsciiArt.svg"  />
+  <img height="200" src="./AsciiArt.svg"  />
 </div>
 
 <!--
