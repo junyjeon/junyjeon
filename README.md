@@ -154,8 +154,6 @@ I'm a developer from South Korea.<br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
 </div>
 
-###
-
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/junyjeon/junyjeon/output/snake.svg" />
 </div>
