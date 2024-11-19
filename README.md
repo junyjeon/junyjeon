@@ -3,21 +3,24 @@
   <img height="300" src="./AsciiArt.svg"  />
 </div>
 
-###
 <!--
+###
+
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 -->
+
 ###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=junyjeon.junyjeon&left_color=darkcyan&right_color=darkgrey"  />
 </div>
 
-### 
+###
+
 <h1 align="center">Hey there 👋</h1>
 
 <h3 align="left">👩‍💻 About Me</h3>
@@ -37,16 +40,16 @@ I'm a developer from South Korea.
   - Deployed using Docker and AWS
 
 💡 Interests
-- Exploring practical AI applications<br>
-- Game development with Unreal Engine<br>
-- Mobile app development with Flutter<br>
-- Blockchain technology and Web3<br>
+- Exploring practical AI applications
+- Game development with Unreal Engine
+- Mobile app development with Flutter
+- Blockchain technology and Web3
 
 🎨 Beyond Coding
-- 🧗‍♂️ Rock climbing<br>
-- 🏋️ Fitness<br>
-- 📖 Philosophy<br>
-- 🎹 Piano & cooking<br>
+- 🧗‍♂️ Rock climbing
+- 🏋️ Fitness
+- 📖 Philosophy
+- 🎹 Piano & cooking
 
 <h3 align="left">🔨 Tech Stack</h3>
 
@@ -71,11 +74,11 @@ Languages:
 
 Frontend:
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react" /> React
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="html5" /> HTML5
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="css3" /> CSS3
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react" /> React
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="20" alt="tailwindcss" /> TailwindCSS
   <img width="12" />
@@ -101,16 +104,24 @@ DevOps:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20" alt="docker" /> Docker
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="20" alt="aws" /> AWS
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="20" alt="aws" /> AWS
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="20" alt="nginx" /> Nginx
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="git" /> Git
 </div>
 
-Game Development:
+Development Environment:
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="20" alt="unrealengine" /> Unreal Engine
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="vscode" /> VSCode
+  <img width="12" />
+  <img src="https://cursor.sh/brand/icon.svg" height="20" alt="cursor" /> Cursor
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="20" alt="vim" /> Vim
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="20" alt="xcode" /> Xcode
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="20" alt="jupyter" /> Jupyter
 </div>
 
 Design & CMS:
@@ -124,28 +135,20 @@ Design & CMS:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="20" alt="webflow" /> Webflow
 </div>
 
-Development Environment:
+Game Development:
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="vscode" /> VSCode
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="20" alt="vim" /> Vim
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="20" alt="xcode" /> Xcode
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="20" alt="jupyter" /> Jupyter
-  <img width="12" />
-  <img src="https://cursor.sh/brand/icon.svg" height="20" alt="cursor" /> Cursor
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="20" alt="unrealengine" /> Unreal Engine
 </div>
 
 Operating Systems:
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="20" alt="apple" /> macOS
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20" alt="linux" /> Linux
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="20" alt="ubuntu" /> Ubuntu
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="20" alt="debian" /> Debian
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="20" alt="apple" /> macOS
 </div>
 
 <div align="center">
