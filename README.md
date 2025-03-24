@@ -107,7 +107,7 @@ LLM Models:
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="20" alt="gpt4" /> GPT
   <img width="12" />
-  <img src="https://anthropic.com/favicon.ico" height="20" alt="claude" /> Claude
+  <img src="./assets/claude-color.svg" height="20" alt="claude" /> Claude
   <img width="12" />
   <img src="https://www.gstatic.com/lamda/images/favicon_v1_150160cddff7f294ce30.svg" height="20" alt="gemini" /> Gemini
   <img width="12" />
