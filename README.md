@@ -107,11 +107,11 @@ LLM Models:
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="20" alt="gpt4" /> GPT
   <img width="12" />
-  <img src="./assets/claude-color.svg" height="20" alt="claude" /> Claude
+  <img src="./assets/claude-color.png" height="20" alt="claude" /> Claude
   <img width="12" />
   <img src="https://www.gstatic.com/lamda/images/favicon_v1_150160cddff7f294ce30.svg" height="20" alt="gemini" /> Gemini
   <img width="12" />
-  <img src="https://img.shields.io/badge/Llama-4856FF?style=flat&logo=meta&logoColor=white" height="20" alt="llama" /> Llama
+  <img src="./assets/ollama.png" height="20" alt="llama" /> Llama
   <img width="12" />
   <img src="https://play-lh.googleusercontent.com/d2zqBFBEymSZKaVg_dRo1gh3hBFn7_Kl9rO74xkDmnJeLgDW0MoJD3cUx0QzZN6jdsg=w240-h480-rw" height="20" alt="deepseek" /> Deepseek
   <img width="12" />
@@ -206,7 +206,7 @@ IDEs & Editors:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="vscode" /> VSCode
   <img width="12" />
-  <img src="https://cursor.sh/brand/icon.svg" height="20" alt="cursor" /> Cursor
+  <img src="./assets/cursor.png" height="20" alt="cursor" /> Cursor
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="20" alt="xcode" /> Xcode
 </div>
