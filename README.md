@@ -111,7 +111,7 @@ LLM Models:
   <img width="12" />
   <img src="https://www.gstatic.com/lamda/images/favicon_v1_150160cddff7f294ce30.svg" height="20" alt="gemini" /> Gemini
   <img width="12" />
-  <img src="https://meta-llama-3.en.softonic.com/web-apps" height="20" alt="llama" /> Llama
+  <img src="https://img.shields.io/badge/Llama-4856FF?style=flat&logo=meta&logoColor=white" height="20" alt="llama" /> Llama
   <img width="12" />
   <img src="https://play-lh.googleusercontent.com/d2zqBFBEymSZKaVg_dRo1gh3hBFn7_Kl9rO74xkDmnJeLgDW0MoJD3cUx0QzZN6jdsg=w240-h480-rw" height="20" alt="deepseek" /> Deepseek
   <img width="12" />
