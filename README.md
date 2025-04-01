@@ -66,7 +66,7 @@
   - Personalized recommendations based on semantic analysis
 </details>
 
-<h3 align="left">🔨 Tech Stack</h3>
+<h3 align="left">🔨 Core Tech Stack</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" alt="c" /> C ⭐
