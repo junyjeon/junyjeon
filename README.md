@@ -260,7 +260,7 @@ Operating Systems:
 <div align="center">
   <div style="display: inline-block; margin: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=junyjeon&show_icons=true&theme=dracula&hide_border=true" width="400" alt="GitHub Stats" />
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=junyjeon&theme=darcula&hide_border=true&locale=ko" alt="GitHub Streak" /></a>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=junyjeon&theme=darcula&hide_border=true" alt="GitHub Streak" />
   </div>
   <div style="display: inline-block; margin: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junyjeon&layout=compact&theme=dracula&hide_border=true" width="400" alt="Top Languages" />
