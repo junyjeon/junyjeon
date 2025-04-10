@@ -260,7 +260,7 @@ Operating Systems:
 <div align="center">
   <div style="display: inline-block; margin: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=junyjeon&show_icons=true&theme=dracula&hide_border=true" width="400" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=junyjeon&theme=dracula&hide_border=true" width="400" alt="Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=junyjeon&theme=dracula&hide_border=true" width="400" alt="Streak Stats" />
   </div>
   <div style="display: inline-block; margin: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junyjeon&layout=compact&theme=dracula&hide_border=true" width="400" alt="Top Languages" />
