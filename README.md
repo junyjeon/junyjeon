@@ -9,7 +9,7 @@
   <a href="mailto:jjy8479@naver.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=junyjeon.junyjeon&left_color=white&right_color=darkgrey"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=junyjeon.junyjeon&left_color=dracula&right_color=darkgrey"  />
 </div>
 
 <!-- <h3 align="center">👨‍💻 [Your title here]</h3>
