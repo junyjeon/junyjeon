@@ -78,8 +78,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="20" alt="flutter" /> Flutter ⭐
   <img width="12" />
   <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f427.svg" height="20" alt="penguin" /> WSL ⭐
-  <img width="12" />
-  <img src="https://cursor.sh/brand/icon.svg" height="20" alt="cursor" /> Cursor ⭐
 </div>
 <br>
 
