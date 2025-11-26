@@ -40,7 +40,7 @@
   Your introduction will go here
 </p> -->
 
-<h3 align="left">💼 Projects</h3>
+<h3 align="left">Projects</h3>
 
 <details>
 <summary><strong><a href="https://github.com/junyjeon/health-coach-ai">AI Health Coaching System</a></strong> - Multi-Agent Health Management</summary>
@@ -173,7 +173,7 @@
 
 ###
 
-<h2 align="center">📊 Stats</h2>
+<h2 align="center">Stats</h2>
 
 <div align="center">
   <div style="display: inline-block; margin: 10px;">
@@ -186,7 +186,7 @@
   </div>
 </div>
 
-<h3 align="center">🐍 Contribution Activity</h3>
+<h3 align="center">Contributions</h3>
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/junyjeon/junyjeon/output/snake.svg" />
 </div>
