@@ -24,15 +24,6 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
 
-      - name: remove progress bar from svg
-        run: |
-          # Remove progress bar (elements with class="u")
-          sed -i 's/<rect[^>]*class="[^"]*u[^"]*"[^>]*\/>//g' dist/snake.svg || true
-          # Remove related CSS animations for progress bar
-          sed -i 's/\.u{[^}]*}//g' dist/snake.svg || true
-          sed -i 's/@keyframes u[0-9a-z]*{[^}]*}//g' dist/snake.svg || true
-          sed -i 's/\.u\.u[0-9a-z]*{[^}]*}//g' dist/snake.svg || true
-
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
