@@ -49,7 +49,7 @@
   - LSTM prediction model (30K params) for 7-day health forecasting
   - RAG pipeline with MongoDB Vector Search
 
-  **Tech:** Python, LangChain, LangGraph, OpenAI API, TensorFlow.js, MongoDB Atlas
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,mongodb" height="25"/><img width="4"/><img src="./assets/langchain.png" height="25"/><img width="4"/><img src="./assets/openai.svg" height="25"/>
 </details>
 
 <details>
@@ -61,7 +61,7 @@
   - Built LLM pipeline analyzing **20,000+** reviews with **95%+** keyword extraction accuracy
   - Architected RAG-based recommendation engine using Vector DB + Graph DB
 
-  **Tech:** Flutter, Riverpod, FastAPI, Neo4j Graph DB, MongoDB Vector Search, OpenAI API
+  <img src="https://skillicons.dev/icons?i=flutter,fastapi,mongodb" height="25"/><img width="4"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="25"/><img width="4"/><img src="./assets/openai.svg" height="25"/>
 </details>
 
 <details>
@@ -71,7 +71,7 @@
   - Voice Activity Detection (VAD) with noise cancellation
   - Live2D lip sync with ElevenLabs TTS
 
-  **Tech:** Python, Node.js, WebRTC, ElevenLabs API, Live2D SDK, OpenAI API
+  <img src="https://skillicons.dev/icons?i=python,nodejs" height="25"/><img width="4"/><img src="./assets/openai.svg" height="25"/>
 </details>
 
 <details>
@@ -81,7 +81,7 @@
   - Delivered in **3 days**, generating **₩200,000** revenue
   - Streamlit web app with batch Excel export
 
-  **Tech:** Python, Streamlit, Gemini API, OpenCV, Pillow
+  <img src="https://skillicons.dev/icons?i=python" height="25"/><img width="4"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="25"/><img width="4"/><img src="./assets/gemini.svg" height="25"/><img width="4"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="25"/>
 </details>
 
 <details>
@@ -91,7 +91,7 @@
   - RAG search with Tantivy engine and Claude API
   - Multi-window management (2-6 panel layouts)
 
-  **Tech:** Electron, Tauri, React, TypeScript, Rust, Claude API, Tantivy
+  <img src="https://skillicons.dev/icons?i=electron,react,ts,rust" height="25"/><img width="4"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" height="25"/><img width="4"/><img src="./assets/claude-color.png" height="25"/>
 </details>
 
 <h3 align="left">Core Tech Stack</h3>
@@ -137,7 +137,7 @@
 <img src="./assets/openai.svg" height="35"/><img width="8"/><img src="./assets/claude-color.png" height="35"/><img width="8"/><img src="./assets/gemini.svg" height="35"/><img width="8"/><img src="./assets/ollama.png" height="35"/><img width="8"/><img src="./assets/deepseek.ico" height="35"/><img width="8"/><img src="./assets/grok.ico" height="35"/>
 
 **LLM Tools**
-<img src="./assets/langchain.png" height="35"/><img width="8"/><img src="https://smith.langchain.com/favicon.ico" height="35"/>
+<img src="./assets/langchain.png" height="35"/><img width="8"/><img src="https://smith.langchain.com/favicon.ico" height="35"/><img width="8"/><img src="./assets/cursor.png" height="35"/>
 
 **Search Engines**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="35"/><img width="8"/><img src="https://tantivy-search.github.io/logo/tantivy-logo.png" height="35"/>
