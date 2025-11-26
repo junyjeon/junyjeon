@@ -52,7 +52,7 @@
   - LSTM prediction model (30K params) for 7-day health forecasting
   - RAG pipeline with MongoDB Vector Search
 
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,mongodb" height="25"/><img width="4"/><img src="./assets/langchain.png" height="25"/><img width="4"/><img src="./assets/langgraph.png" height="25"/><img width="4"/><img src="./assets/openai.svg" height="25"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,mongodb" height="25"/><img width="4"/><img src="./assets/langchain.png" height="25"/><img width="4"/><img src="./assets/openai.svg" height="25"/>
 </details>
 
 <details>
@@ -104,8 +104,6 @@
   <img width="12"/>
   <img src="./assets/langchain.png" height="40"/>
   <img width="8"/>
-  <img src="./assets/langgraph.png" height="40"/>
-  <img width="8"/>
   <img src="./assets/openai.svg" height="40"/>
   <img width="8"/>
   <img src="./assets/claude-color.png" height="40"/>
@@ -142,7 +140,7 @@
 <img src="./assets/openai.svg" height="35"/><img width="8"/><img src="./assets/claude-color.png" height="35"/><img width="8"/><img src="./assets/gemini.svg" height="35"/><img width="8"/><img src="./assets/ollama.png" height="35"/><img width="8"/><img src="./assets/deepseek.png" height="35"/><img width="8"/><img src="./assets/grok.png" height="35"/>
 
 **LLM Tools**
-<img src="./assets/langchain.png" height="35"/><img width="8"/><img src="./assets/langgraph.png" height="35"/><img width="8"/><img src="https://smith.langchain.com/favicon.ico" height="35"/><img width="8"/><img src="./assets/cursor.png" height="35"/>
+<img src="./assets/langchain.png" height="35"/><img width="8"/><img src="https://smith.langchain.com/favicon.ico" height="35"/><img width="8"/><img src="./assets/cursor.png" height="35"/>
 
 **Search Engines**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="35"/><img width="8"/><img src="https://tantivy-search.github.io/logo/tantivy-logo.png" height="35"/>
