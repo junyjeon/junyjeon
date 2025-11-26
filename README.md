@@ -134,7 +134,7 @@
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,apple" height="35"/>
 
 **LLM Models**
-<img src="./assets/openai.svg" height="35"/><img width="8"/><img src="./assets/claude-color.png" height="35"/><img width="8"/><img src="./assets/gemini.svg" height="35"/><img width="8"/><img src="./assets/ollama.png" height="35"/><img width="8"/><img src="https://play-lh.googleusercontent.com/d2zqBFBEymSZKaVg_dRo1gh3hBFn7_Kl9rO74xkDmnJeLgDW0MoJD3cUx0QzZN6jdsg=w240-h480-rw" height="35"/><img width="8"/><img src="https://x.com/favicon.ico" height="35"/>
+<img src="./assets/openai.svg" height="35"/><img width="8"/><img src="./assets/claude-color.png" height="35"/><img width="8"/><img src="./assets/gemini.svg" height="35"/><img width="8"/><img src="./assets/ollama.png" height="35"/><img width="8"/><img src="./assets/deepseek.ico" height="35"/><img width="8"/><img src="./assets/grok.ico" height="35"/>
 
 **LLM Tools**
 <img src="./assets/langchain.png" height="35"/><img width="8"/><img src="https://smith.langchain.com/favicon.ico" height="35"/>
