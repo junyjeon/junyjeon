@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Juny%20Jeon&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Developer%20from%20South%20Korea&descAlignY=55&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Junyoung%20Jeon&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Developer%20from%20South%20Korea&descAlignY=55&descAlign=62" />
 </div>
 
 <div align="center">
@@ -43,196 +43,91 @@
 <h3 align="left">💼 Projects</h3>
 
 <details>
-<summary><strong>🌸 <a href="https://github.com/junyjeon/preference">Perfume Recommendation Service</a></strong></summary>
+<summary><strong><a href="https://github.com/junyjeon/health-coach-ai">AI Health Coaching System</a></strong> - Multi-Agent Health Management</summary>
 
-<div>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white" alt="Neo4j"/>
-  <img src="https://img.shields.io/badge/GPT--4-412991?style=flat&logo=openai&logoColor=white" alt="GPT-4"/>
-</div>
+  - 6-Layer OODA Loop architecture with specialized AI agents
+  - LSTM prediction model (30K params) for 7-day health forecasting
+  - RAG pipeline with MongoDB Vector Search
 
-  - 📱 Perfume recommendation app built with Flutter and Neo4j graph database
-  - 🤖 Implemented keyword extraction from user reviews using GPT-4
-  - 🔍 Created graph-based recommendation system using extracted keywords
-
-  <b>Tech Stack:</b>
-  - Flutter, Riverpod, go_router
-  - Neo4j graph database, GPT-4 API
-  - Material Design 3
-
-  <b>Key Features:</b>
-  - AI-powered review keyword extraction
-  - Graph visualization of perfume relationships
-  - Personalized recommendations based on semantic analysis
+  **Tech:** Python, LangChain, LangGraph, OpenAI API, TensorFlow.js, MongoDB Atlas
 </details>
 
-<h3 align="left">🔨 Core Tech Stack</h3>
+<details>
+<summary><strong><a href="https://github.com/junyjeon/preference">AI Perfume Recommendation Service</a></strong> - B2B for Global Brands</summary>
+
+  **Role:** AI Development Lead (Acting CTO) at PerfumeToday startup
+
+  - Delivered B2B solution to global brands **Buly** and **Jovoy** (₩15M project)
+  - Built LLM pipeline analyzing **20,000+** reviews with **95%+** keyword extraction accuracy
+  - Architected RAG-based recommendation engine using Vector DB + Graph DB
+
+  **Tech:** Flutter, Riverpod, FastAPI, Neo4j Graph DB, MongoDB Vector Search, OpenAI API
+</details>
+
+<details>
+<summary><strong><a href="https://github.com/junyjeon/web-ai-vtuber">Real-time AI VTuber</a></strong> - AI Character Conversation System</summary>
+
+  - <2s end-to-end latency streaming pipeline
+  - Voice Activity Detection (VAD) with noise cancellation
+  - Live2D lip sync with ElevenLabs TTS
+
+  **Tech:** Python, Node.js, WebRTC, ElevenLabs API, Live2D SDK, OpenAI API
+</details>
+
+<details>
+<summary><strong><a href="https://github.com/junyjeon/kmong-ai-fashion-md">AI Product Naming Service</a></strong> - Multimodal Fashion MD Tool</summary>
+
+  - Multimodal AI naming with image analysis, OCR, and duplicate prevention
+  - Delivered in **3 days**, generating **₩200,000** revenue
+  - Streamlit web app with batch Excel export
+
+  **Tech:** Python, Streamlit, Gemini API, OpenCV, Pillow
+</details>
+
+<details>
+<summary><strong><a href="https://github.com/junyjeon/snapnote">AI Knowledge Management Desktop App</a></strong> - Productivity Hub</summary>
+
+  - Alt+Click scraping with automatic AI tagging/summarization
+  - RAG search with Tantivy engine and Claude API
+  - Multi-window management (2-6 panel layouts)
+
+  **Tech:** Electron, Tauri, React, TypeScript, Rust, Claude API, Tantivy
+</details>
+
+<h3 align="left">Core Tech Stack</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" alt="c" /> C ⭐
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="cplusplus" /> C++ ⭐
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="20" alt="dart" /> Dart ⭐
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="20" alt="flutter" /> Flutter ⭐
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f427.svg" height="20" alt="penguin" /> WSL ⭐
+  <img src="https://skillicons.dev/icons?i=python,typescript,react,flutter" height="40"/>
+  <img width="12"/>
+  <img src="./assets/langchain.png" height="40"/>
+  <img width="8"/>
+  <img src="./assets/openai.svg" height="40"/>
 </div>
 <br>
 
 <details>
 <summary><strong>Full Tech Stack</strong></summary>
 
-Languages:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" alt="c" /> C
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="cplusplus" /> C++
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="20" alt="rust" /> Rust
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python" /> Python
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript" /> JavaScript
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="typescript" /> TypeScript
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="20" alt="dart" /> Dart
-</div>
+**Languages**
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,python,js,ts,dart" height="35"/>
 
-LLM Models:
-<div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="20" alt="gpt4" /> GPT
-  <img width="12" />
-  <img src="./assets/claude-color.png" height="20" alt="claude" /> Claude
-  <img width="12" />
-  <img src="https://www.gstatic.com/lamda/images/favicon_v1_150160cddff7f294ce30.svg" height="20" alt="gemini" /> Gemini
-  <img width="12" />
-  <img src="./assets/ollama.png" height="20" alt="llama" /> Llama
-  <img width="12" />
-  <img src="https://play-lh.googleusercontent.com/d2zqBFBEymSZKaVg_dRo1gh3hBFn7_Kl9rO74xkDmnJeLgDW0MoJD3cUx0QzZN6jdsg=w240-h480-rw" height="20" alt="deepseek" /> Deepseek
-  <img width="12" />
-  <img src="https://x.com/favicon.ico" height="20" alt="grok" /> Grok
-</div>
+**AI/ML**
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="35"/>
 
-LLM Tools:
-<div align="left">
-  <img src="https://python.langchain.com/img/favicon.ico" height="20" alt="langchain" /> Langchain
-  <img width="12" />
-  <img src="https://smith.langchain.com/favicon.ico" height="20" alt="langsmith" /> LangSmith
-</div>
+**Frontend**
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,flutter,electron" height="35"/>
 
-Search Engines:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="20" alt="elasticsearch" /> ElasticSearch
-  <img width="12" />
-  <img src="https://tantivy-search.github.io/logo/tantivy-logo.png" height="20" alt="tantivy" /> Tantivy
-</div>
+**Backend**
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,redis,mongodb" height="35"/>
 
-Frontend:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="html5" /> HTML5
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="css3" /> CSS3
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react" /> React
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="20" alt="tailwindcss" /> TailwindCSS
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="20" alt="bootstrap" /> Bootstrap
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="20" alt="flutter" /> Flutter
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="20" alt="electron" /> Electron
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/54536011" height="20" alt="tauri" /> Tauri 2.0
-</div>
+**DevOps**
+<img src="https://skillicons.dev/icons?i=git,docker,aws,nginx,linux" height="35"/>
 
-Design Tools:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20" alt="figma" /> Figma
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" height="20" alt="sketch" /> Sketch
-</div>
+**Tools**
+<img src="https://skillicons.dev/icons?i=vim,vscode,figma,unity,unreal" height="35"/>
 
-CMS:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="20" alt="wordpress" /> WordPress
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="20" alt="webflow" /> Webflow
-</div>
-
-Backend:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="20" alt="fastapi" /> FastAPI
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20" alt="postgresql" /> PostgreSQL
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="mysql" /> MySQL
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="20" alt="redis" /> Redis
-</div>
-
-Testing & Automation:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="20" alt="selenium" /> Selenium
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="bs4" /> BeautifulSoup4
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f916.svg" height="20" alt="robot" /> MacroRecord
-</div>
-
-DevOps:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="git" /> Git
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="20" alt="make" /> Make
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20" alt="docker" /> Docker
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="20" alt="aws" /> AWS
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="20" alt="nginx" /> Nginx
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f427.svg" height="20" alt="penguin" /> WSL
-</div>
-
-IDEs & Editors:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="20" alt="vim" /> Vim
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="vscode" /> VSCode
-  <img width="12" />
-  <img src="./assets/cursor.png" height="20" alt="cursor" /> Cursor
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="20" alt="xcode" /> Xcode
-</div>
-
-Data Science:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="20" alt="jupyter" /> Jupyter
-</div>
-
-Game Development:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="20" alt="unrealengine" /> Unreal Engine 5
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="20" alt="unity" /> Unity 6
-</div>
-
-Operating Systems:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20" alt="linux" /> Linux
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="20" alt="ubuntu" /> Ubuntu
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="20" alt="debian" /> Debian
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="20" alt="windows" /> Windows
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="20" alt="apple" /> MacOS
-</div>
+**OS**
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,apple" height="35"/>
 </details>
 
 ###
