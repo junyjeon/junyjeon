@@ -103,6 +103,8 @@
   <img width="8"/>
   <img src="./assets/openai.svg" height="40"/>
   <img width="8"/>
+  <img src="./assets/claude-color.png" height="40"/>
+  <img width="8"/>
   <img src="./assets/gemini.svg" height="40"/>
 </div>
 <br>
@@ -132,31 +134,13 @@
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,apple" height="35"/>
 
 **AI/LLM**
-<div align="left">
-  <img src="./assets/openai.svg" height="25"/>
-  <img width="8"/>
-  <img src="./assets/claude-color.png" height="25"/>
-  <img width="8"/>
-  <img src="./assets/gemini.svg" height="25"/>
-  <img width="8"/>
-  <img src="./assets/langchain.png" height="25"/>
-</div>
+<img src="./assets/openai.svg" height="35"/><img width="8"/><img src="./assets/claude-color.png" height="35"/><img width="8"/><img src="./assets/gemini.svg" height="35"/><img width="8"/><img src="./assets/langchain.png" height="35"/>
 
 **Search**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="25"/>
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="25"/>
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="35"/><img width="8"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="35"/>
 
 **Other**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" height="25"/>
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="25"/>
-  <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="25"/>
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" height="35"/><img width="8"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="35"/><img width="8"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="35"/>
 </details>
 
 ###
