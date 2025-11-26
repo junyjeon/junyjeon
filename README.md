@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Junyoung%20Jeon&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Developer%20from%20South%20Korea&descAlignY=55&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Junyoung%20Jeon&fontSize=60&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Multi-Agent%20%26%20RAG%20Systems&descAlignY=55&descAlign=62" />
 </div>
 
 <div align="center">
@@ -8,6 +8,9 @@
   </a>
   <a href="mailto:jjy8479@naver.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/junyjeon" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=junyjeon.junyjeon&left_color=dracula&right_color=darkgrey"  />
 </div>
@@ -49,7 +52,7 @@
   - LSTM prediction model (30K params) for 7-day health forecasting
   - RAG pipeline with MongoDB Vector Search
 
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,mongodb" height="25"/><img width="4"/><img src="./assets/langchain.png" height="25"/><img width="4"/><img src="./assets/openai.svg" height="25"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,mongodb" height="25"/><img width="4"/><img src="./assets/langchain.png" height="25"/><img width="4"/><img src="./assets/langgraph.png" height="25"/><img width="4"/><img src="./assets/openai.svg" height="25"/>
 </details>
 
 <details>
@@ -101,6 +104,8 @@
   <img width="12"/>
   <img src="./assets/langchain.png" height="40"/>
   <img width="8"/>
+  <img src="./assets/langgraph.png" height="40"/>
+  <img width="8"/>
   <img src="./assets/openai.svg" height="40"/>
   <img width="8"/>
   <img src="./assets/claude-color.png" height="40"/>
@@ -134,10 +139,10 @@
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows,apple" height="35"/>
 
 **LLM Models**
-<img src="./assets/openai.svg" height="35"/><img width="8"/><img src="./assets/claude-color.png" height="35"/><img width="8"/><img src="./assets/gemini.svg" height="35"/><img width="8"/><img src="./assets/ollama.png" height="35"/><img width="8"/><img src="./assets/deepseek.ico" height="35"/><img width="8"/><img src="./assets/grok.ico" height="35"/>
+<img src="./assets/openai.svg" height="35"/><img width="8"/><img src="./assets/claude-color.png" height="35"/><img width="8"/><img src="./assets/gemini.svg" height="35"/><img width="8"/><img src="./assets/ollama.png" height="35"/><img width="8"/><img src="./assets/deepseek.png" height="35"/><img width="8"/><img src="./assets/grok.png" height="35"/>
 
 **LLM Tools**
-<img src="./assets/langchain.png" height="35"/><img width="8"/><img src="https://smith.langchain.com/favicon.ico" height="35"/><img width="8"/><img src="./assets/cursor.png" height="35"/>
+<img src="./assets/langchain.png" height="35"/><img width="8"/><img src="./assets/langgraph.png" height="35"/><img width="8"/><img src="https://smith.langchain.com/favicon.ico" height="35"/><img width="8"/><img src="./assets/cursor.png" height="35"/>
 
 **Search Engines**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="35"/><img width="8"/><img src="https://tantivy-search.github.io/logo/tantivy-logo.png" height="35"/>
