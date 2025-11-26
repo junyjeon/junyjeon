@@ -97,7 +97,7 @@
 <h3 align="left">Core Tech Stack</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,flutter" height="40"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,typescript,react,flutter,dart" height="40"/>
   <img width="12"/>
   <img src="./assets/langchain.png" height="40"/>
   <img width="8"/>
