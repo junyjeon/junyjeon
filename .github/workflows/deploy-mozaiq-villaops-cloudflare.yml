@@ -84,7 +84,9 @@ jobs:
           node -e '
             const fs = require("node:fs");
             const data = JSON.parse(fs.readFileSync(process.env.RUNNER_TEMP + "/health.json", "utf8"));
-            if (data.status !== "ok") throw new Error("health status is not ok");
+            if (data.ok !== true || data.runtime !== "cloudflare-workers") {
+              throw new Error("health contract mismatch");
+            }
           '
 
           curl --fail --silent --show-error --retry 8 --retry-all-errors --retry-delay 2 \
@@ -92,7 +94,9 @@ jobs:
           node -e '
             const fs = require("node:fs");
             const data = JSON.parse(fs.readFileSync(process.env.RUNNER_TEMP + "/turnovers.json", "utf8"));
-            if (!Array.isArray(data.items) || data.items.length < 1) throw new Error("turnover data is empty");
+            if (data.ok !== true || !Array.isArray(data.data) || data.data.length < 1) {
+              throw new Error("turnover contract mismatch");
+            }
           '
 
           {
