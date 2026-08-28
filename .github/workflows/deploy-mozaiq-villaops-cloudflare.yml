@@ -37,18 +37,72 @@ jobs:
         run: npm install --no-package-lock --ignore-scripts=false
 
       - name: Deploy to a temporary Cloudflare account
+        id: deploy
         working-directory: mozaiq-villaops-cloudflare
         shell: bash
         run: |
-          set -o pipefail
+          set -euo pipefail
           npm run deploy:temporary 2>&1 | tee "$RUNNER_TEMP/cloudflare-deploy.log"
           sed -E 's/\x1B\[[0-9;]*[mK]//g' "$RUNNER_TEMP/cloudflare-deploy.log" > "$RUNNER_TEMP/cloudflare-deploy-clean.log"
+
+          DEPLOY_URL="$(grep -Eo 'https://[A-Za-z0-9.-]+\.workers\.dev' "$RUNNER_TEMP/cloudflare-deploy-clean.log" | tail -n 1)"
+          CLAIM_URL="$(grep -Eo 'https://dash\.cloudflare\.com/claim-preview\?claimToken=[A-Za-z0-9_-]+' "$RUNNER_TEMP/cloudflare-deploy-clean.log" | tail -n 1)"
+          test -n "$DEPLOY_URL"
+          test -n "$CLAIM_URL"
+
+          echo "deploy_url=$DEPLOY_URL" >> "$GITHUB_OUTPUT"
+          echo "claim_url=$CLAIM_URL" >> "$GITHUB_OUTPUT"
+
           {
             echo "## VillaOps Cloudflare deployment"
+            echo
+            echo "- Live site: $DEPLOY_URL"
+            echo "- Claim deployment: $CLAIM_URL"
             echo
             echo '```text'
             cat "$RUNNER_TEMP/cloudflare-deploy-clean.log"
             echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Verify deployed site and API
+        env:
+          DEPLOY_URL: ${{ steps.deploy.outputs.deploy_url }}
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          curl --fail --silent --show-error --retry 8 --retry-all-errors --retry-delay 2 \
+            "$DEPLOY_URL/" > "$RUNNER_TEMP/index.html"
+          grep -q "VillaOps" "$RUNNER_TEMP/index.html"
+
+          curl --fail --silent --show-error --retry 8 --retry-all-errors --retry-delay 2 \
+            "$DEPLOY_URL/field/" > "$RUNNER_TEMP/field.html"
+          grep -q "오늘의 작업" "$RUNNER_TEMP/field.html"
+
+          curl --fail --silent --show-error --retry 8 --retry-all-errors --retry-delay 2 \
+            "$DEPLOY_URL/api/health" > "$RUNNER_TEMP/health.json"
+          node -e '
+            const fs = require("node:fs");
+            const data = JSON.parse(fs.readFileSync(process.env.RUNNER_TEMP + "/health.json", "utf8"));
+            if (data.status !== "ok") throw new Error("health status is not ok");
+          '
+
+          curl --fail --silent --show-error --retry 8 --retry-all-errors --retry-delay 2 \
+            "$DEPLOY_URL/api/turnovers/today" > "$RUNNER_TEMP/turnovers.json"
+          node -e '
+            const fs = require("node:fs");
+            const data = JSON.parse(fs.readFileSync(process.env.RUNNER_TEMP + "/turnovers.json", "utf8"));
+            if (!Array.isArray(data.items) || data.items.length < 1) throw new Error("turnover data is empty");
+          '
+
+          {
+            echo
+            echo "### Verification"
+            echo
+            echo "- Admin dashboard: passed"
+            echo "- Field mobile page: passed"
+            echo "- Health API: passed"
+            echo "- Turnover API: passed"
           } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Upload deployment output
