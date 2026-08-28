@@ -1,0 +1,61 @@
+name: Deploy VillaOps temporary preview to Cloudflare
+
+on:
+  push:
+    branches:
+      - deploy/mozaiq-villaops-cloudflare
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    name: Cloudflare temporary deployment
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - name: Checkout deployment branch
+        uses: actions/checkout@v4
+
+      - name: Use Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Reconstruct deployment source
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat mozaiq-villaops-cloudflare-site/site.b64.part-* > "$RUNNER_TEMP/site.b64"
+          base64 --decode "$RUNNER_TEMP/site.b64" > "$RUNNER_TEMP/site.tar.gz"
+          echo "6eb2ca1c24c794290045e86d2296708124dd78e91108768eef3e2dd515d3280f  $RUNNER_TEMP/site.tar.gz" | sha256sum --check -
+          tar -xzf "$RUNNER_TEMP/site.tar.gz"
+
+      - name: Install pinned Wrangler
+        working-directory: mozaiq-villaops-cloudflare
+        run: npm install --no-package-lock --ignore-scripts=false
+
+      - name: Deploy to a temporary Cloudflare account
+        working-directory: mozaiq-villaops-cloudflare
+        shell: bash
+        run: |
+          set -o pipefail
+          npm run deploy:temporary 2>&1 | tee "$RUNNER_TEMP/cloudflare-deploy.log"
+          sed -E 's/\x1B\[[0-9;]*[mK]//g' "$RUNNER_TEMP/cloudflare-deploy.log" > "$RUNNER_TEMP/cloudflare-deploy-clean.log"
+          {
+            echo "## VillaOps Cloudflare deployment"
+            echo
+            echo '```text'
+            cat "$RUNNER_TEMP/cloudflare-deploy-clean.log"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload deployment output
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: cloudflare-deploy-output
+          path: ${{ runner.temp }}/cloudflare-deploy*.log
+          if-no-files-found: warn
+          retention-days: 1
